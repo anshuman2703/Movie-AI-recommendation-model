@@ -1,0 +1,89 @@
+Title,Type,Genre,Rating
+Inception,Movie,Sci-Fi,5
+Interstellar,Movie,Sci-Fi,5
+The Matrix,Movie,Sci-Fi,5
+Avatar,Movie,Sci-Fi,4
+Gravity,Movie,Sci-Fi,4
+Dune,Movie,Sci-Fi,5
+Blade Runner 2049,Movie,Sci-Fi,4
+Arrival,Movie,Sci-Fi,5
+Tenet,Movie,Sci-Fi,4
+Ex Machina,Movie,Sci-Fi,3
+Titanic,Movie,Romance,4
+The Notebook,Movie,Romance,4
+La La Land,Movie,Romance,5
+Pride and Prejudice,Movie,Romance,4
+Me Before You,Movie,Romance,3
+Before Sunrise,Movie,Romance,3
+The Fault in Our Stars,Movie,Romance,4
+Call Me By Your Name,Movie,Romance,4
+Avengers,Movie,Action,5
+Iron Man,Movie,Action,5
+The Dark Knight,Movie,Action,5
+John Wick,Movie,Action,5
+Gladiator,Movie,Action,3
+Mad Max Fury Road,Movie,Action,5
+Mission Impossible,Movie,Action,4
+The Batman,Movie,Action,5
+Jumanji,Movie,Adventure,3
+Jurassic Park,Movie,Adventure,5
+Indiana Jones,Movie,Adventure,4
+Pirates of the Caribbean,Movie,Adventure,5
+Life of Pi,Movie,Adventure,4
+The Conjuring,Movie,Horror,4
+Annabelle,Movie,Horror,3
+IT,Movie,Horror,4
+The Nun,Movie,Horror,2
+A Quiet Place,Movie,Horror,5
+Hereditary,Movie,Horror,4
+Toy Story,Movie,Animation,5
+Finding Nemo,Movie,Animation,5
+Frozen,Movie,Animation,4
+Shrek,Movie,Animation,5
+Kung Fu Panda,Movie,Animation,4
+Spider-Man Into the Spider-Verse,Movie,Animation,5
+The Hangover,Movie,Comedy,5
+Superbad,Movie,Comedy,4
+Step Brothers,Movie,Comedy,4
+Deadpool,Movie,Comedy,5
+Home Alone,Movie,Comedy,5
+Joker,Movie,Drama,5
+Forrest Gump,Movie,Drama,5
+The Shawshank Redemption,Movie,Drama,5
+Fight Club,Movie,Drama,5
+The Godfather,Movie,Drama,5
+Breaking Bad,Series,Drama,5
+Game of Thrones,Series,Fantasy,5
+Stranger Things,Series,Sci-Fi,2
+The Witcher,Series,Fantasy,4
+Money Heist,Series,Thriller,5
+Narcos,Series,Crime,4
+Peaky Blinders,Series,Crime,5
+Dark,Series,Sci-Fi,5
+The Boys,Series,Action,5
+Loki,Series,Sci-Fi,5
+WandaVision,Series,Sci-Fi,5
+Friends,Series,Comedy,5
+The Office,Series,Comedy,5
+How I Met Your Mother,Series,Comedy,3
+Brooklyn Nine-Nine,Series,Comedy,5
+Chernobyl,Series,Drama,5
+The Mandalorian,Series,Sci-Fi,4
+House of the Dragon,Series,Fantasy,4
+Naruto,Anime,Action,4
+Attack on Titan,Anime,Action,5
+Demon Slayer,Anime,Action,3
+My Hero Academia,Anime,Action,2
+One Punch Man,Anime,Action,4
+Dragon Ball Z,Anime,Action,4
+Jujutsu Kaisen,Anime,Action,4
+Tokyo Ghoul,Anime,Horror,4
+Death Note,Anime,Thriller,5
+Steins Gate,Anime,Sci-Fi,5
+Fullmetal Alchemist Brotherhood,Anime,Fantasy,5
+Your Name,Anime,Romance,4
+A Silent Voice,Anime,Drama,4
+Spirited Away,Anime,Fantasy,4
+Weathering With You,Anime,Romance,4
+One Piece,Anime,Adventure,5
+Bleach,Anime,Action,5
